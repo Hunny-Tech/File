@@ -784,8 +784,6 @@ _________________
 
   Owner  :   Hunny
 
- 
-
   Github   :  HUNNY-TECH
 
   Facebook : https://www.facebook.com/UmErFarOoQChOuDhry
@@ -1682,7 +1680,7 @@ class Main:
 
 				self.ok.append("%s|%s"%(uid, pw))
 
-				open("2009-Zahid-Ok.txt","a").write(" %s|%s\n"%(uid, pw))
+				open("2009-Hunny-Ok.txt","a").write(" %s|%s\n"%(uid, pw))
 
 				break
 
@@ -2612,8 +2610,8 @@ def Subscription ():
 
 		tks = 'Dear%20Admin,%20Please%20Approved%20My%20Key%20To%20Premium%20%20Thanks%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20Name%20:%20'+name+'%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20%20Key%20%20:%20'+ak+ahsan+''+key1
 
-		os.system('am start https://wa.me/+923422997365?text=' + tks)
+		os.system('am start https://wa.me/++14172164897?text=' + tks)
 
-		Subscraption()        
+		Subscription ()        
 
 Main()
